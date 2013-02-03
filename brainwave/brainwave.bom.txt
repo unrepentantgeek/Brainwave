@@ -1,0 +1,92 @@
+Part     Value             Device             Package         Description                                                            
+BED_TEMP                   JP1E               JP1             JUMPER                                                                 
+C1       220pF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C2       10pF              C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C3       10pF              C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C4       1uF               C-USC0603          C0603           CAPACITOR, American symbol                                             
+C5       0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C6       0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C7       220pF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C8       10uF              CPOL-US153CLV-0505 153CLV-0505     POLARIZED CAPACITOR, American symbol                                   
+C9       0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C10      0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C11      10uF              CPOL-US153CLV-0505 153CLV-0505     POLARIZED CAPACITOR, American symbol                                   
+C12      220pF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C13      0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C14      0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C15      10uF              CPOL-US153CLV-0505 153CLV-0505     POLARIZED CAPACITOR, American symbol                                   
+C16      220pF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C17      0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C18      0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C19      10uF              CPOL-US153CLV-0505 153CLV-0505     POLARIZED CAPACITOR, American symbol                                   
+C20      10uF              CPOL-US153CLV-0505 153CLV-0505     POLARIZED CAPACITOR, American symbol                                   
+C21      10uF              CPOL-US153CLV-0505 153CLV-0505     POLARIZED CAPACITOR, American symbol                                   
+C22      1uF               C-USC0603          C0603           CAPACITOR, American symbol                                             
+C23      1uF               C-USC0603          C0603           CAPACITOR, American symbol                                             
+C24      0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C25      0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C26      0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C27      0.1uF             C-EUC0603          C0603           CAPACITOR, European symbol                                             
+C28      47uF              CPOL-US153CLV-0605 153CLV-0605     POLARIZED CAPACITOR, American symbol                                   
+C29      47uF              CPOL-US153CLV-0605 153CLV-0605     POLARIZED CAPACITOR, American symbol                                   
+E                          MA04-2             MA04-2          PIN HEADER                                                             
+FAN                        JP1E               JP1             JUMPER                                                                 
+ICSP                       MA03-2             MA03-2          PIN HEADER                                                             
+LED2                       LEDCHIPLED_0805    CHIPLED_0805    LED                                                                    
+LED3                       LEDCHIPLED_0805    CHIPLED_0805    LED                                                                    
+LED4                       LEDCHIPLED_0805    CHIPLED_0805    LED                                                                    
+PROGRAM  PTS645SMT         PTS645SMT          PTS645-SMTR                                                                            
+PWR                        LEDCHIPLED_0805    CHIPLED_0805    LED                                                                    
+Q1       16MHZ             CRYSTALCSM-3X      CSM-3X          SMD CRYSTAL                                                            
+R1       22                R-US_R0603         R0603           RESISTOR, American symbol                                              
+R2       22                R-US_R0603         R0603           RESISTOR, American symbol                                              
+R3       15k               R-US_R0603         R0603           RESISTOR, American symbol                                              
+R4       0.51              R-US_R2512         R2512           RESISTOR, American symbol                                              
+R5       0.51              R-US_R2512         R2512           RESISTOR, American symbol                                              
+R6       10k               PVZ3A              PVZ3A                                                                                  
+R9       15k               R-US_R0603         R0603           RESISTOR, American symbol                                              
+R10      0.51              R-US_R2512         R2512           RESISTOR, American symbol                                              
+R11      0.51              R-US_R2512         R2512           RESISTOR, American symbol                                              
+R12      10k               PVZ3A              PVZ3A                                                                                  
+R15      15k               R-US_R0603         R0603           RESISTOR, American symbol                                              
+R16      0.51              R-US_R2512         R2512           RESISTOR, American symbol                                              
+R17      0.51              R-US_R2512         R2512           RESISTOR, American symbol                                              
+R18      10k               PVZ3A              PVZ3A                                                                                  
+R21      15k               R-US_R0603         R0603           RESISTOR, American symbol                                              
+R22      0.51              R-US_R2512         R2512           RESISTOR, American symbol                                              
+R23      0.51              R-US_R2512         R2512           RESISTOR, American symbol                                              
+R24      10k               PVZ3A              PVZ3A                                                                                  
+R27      10r               R-US_R0603         R0603           RESISTOR, American symbol                                              
+R28      100k              R-US_R0603         R0603           RESISTOR, American symbol                                              
+R29      1.8k              R-US_R0603         R0603           RESISTOR, American symbol                                              
+R30      10r               R-US_R0603         R0603           RESISTOR, American symbol                                              
+R31      100k              R-US_R0603         R0603           RESISTOR, American symbol                                              
+R32      1.8k              R-US_R0603         R0603           RESISTOR, American symbol                                              
+R33      1k                R-US_R0603         R0603           RESISTOR, American symbol                                              
+R34      4.7k              R-US_R0603         R0603           RESISTOR, American symbol                                              
+R35      4.7k              R-US_R0603         R0603           RESISTOR, American symbol                                              
+R36      10k               R-US_R0603         R0603           RESISTOR, American symbol                                              
+R37      10r               R-US_R0603         R0603           RESISTOR, American symbol                                              
+R38      100k              R-US_R0603         R0603           RESISTOR, American symbol                                              
+R39      1.8k              R-US_R0603         R0603           RESISTOR, American symbol                                              
+R40      1k                R-US_R0603         R0603           RESISTOR, American symbol                                              
+RESET    PTS645SMT         PTS645SMT          PTS645-SMTR                                                                            
+STAT                       LEDCHIPLED_0805    CHIPLED_0805    LED                                                                    
+U1       AT90USB64/128     AT90USB64/128      TQFP64                                                                                 
+U2       LV8713T           LV8713T            TSSOP24         PWM Constant-Current Control Stepping Motor Driver                     
+U3       LV8713T           LV8713T            TSSOP24         PWM Constant-Current Control Stepping Motor Driver                     
+U4       LV8713T           LV8713T            TSSOP24         PWM Constant-Current Control Stepping Motor Driver                     
+U5       LV8713T           LV8713T            TSSOP24         PWM Constant-Current Control Stepping Motor Driver                     
+U6       7805              78*                SOT89                                                                                  
+U7       IRF8313PBF        IRF8313PBF         SO8                                                                                    
+U8       IRF8313PBF        IRF8313PBF         SO8                                                                                    
+X                          MA04-1             MA04-1          PIN HEADER                                                             
+X1                         W237-102           W237-102        WAGO SCREW CLAMP                                                       
+X2                         W237-102           W237-102        WAGO SCREW CLAMP                                                       
+X3                         W237-102           W237-102        WAGO SCREW CLAMP                                                       
+X5       MICRO-USB-SHIELD- MICRO-USB-SHIELD-  10118192-0001LF MINI USB Connector                                                     
+X_MIN                      JP1E               JP1             JUMPER                                                                 
+Y                          MA04-1             MA04-1          PIN HEADER                                                             
+Y_MIN                      JP1E               JP1             JUMPER                                                                 
+Z                          MA04-2             MA04-2          PIN HEADER                                                             
+Z_MIN                      JP1E               JP1             JUMPER                                                                 

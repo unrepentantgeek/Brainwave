@@ -1726,7 +1726,7 @@
 <text x="78.25" y="29" size="1.778" layer="52" font="vector" rot="MR270">Main</text>
 <text x="78.25" y="18.75" size="1.778" layer="52" font="vector" rot="MR270">Bed</text>
 <text x="13.75" y="4.5" size="1.27" layer="51" font="vector" align="center">Open Source</text>
-<text x="13.75" y="2.5" size="1.27" layer="51" font="vector" align="center">Hardware</text>
+<text x="13.75" y="2.5" size="1.27" layer="51" font="vector" align="center">GPL 2.0</text>
 </plain>
 <libraries>
 <library name="shinythings">
